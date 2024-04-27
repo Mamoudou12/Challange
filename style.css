@@ -1,0 +1,25 @@
+body{
+    width: 100%;
+    background-image: url(C7.jpg);
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+
+}
+h1{
+    color:rgb(19, 19, 19);
+    font-size: 100px;
+}
+ul {
+    list-style-type: none;
+    padding: 10px;
+}
+li {
+    
+    
+    font-weight: bold;
+    color: whitesmoke;
+    font-size: 100px;
+    margin-top: 10px;
+
+}
